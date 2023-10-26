@@ -3,7 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bowling_Task_IT7g2020", "Bowling_Task_IT7g2020\Bowling_Task_IT7g2020.csproj", "{7B19BD4D-0F2D-45AB-A684-2E32C5BCC830}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B19BD4D-0F2D-45AB-A684-2E32C5BCC830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B19BD4D-0F2D-45AB-A684-2E32C5BCC830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B19BD4D-0F2D-45AB-A684-2E32C5BCC830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B19BD4D-0F2D-45AB-A684-2E32C5BCC830}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
